@@ -8,5 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "lisher"
+  "author": "lisher",
+  "gitHead": "f45398f173162199c56f8be9318337f29d6cf049"
 }

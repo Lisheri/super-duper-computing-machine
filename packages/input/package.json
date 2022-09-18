@@ -11,5 +11,6 @@
   "author": "lisher",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "f45398f173162199c56f8be9318337f29d6cf049"
 }
