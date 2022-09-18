@@ -1,0 +1,15 @@
+{
+  "name": "xm-form-item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lisher",
+  "dependencies": {
+    "async-validator": "^4.2.5"
+  }
+}
